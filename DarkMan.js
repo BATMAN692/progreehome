@@ -25,7 +25,7 @@ client.login("");
 client.on("ready", async () => {
   console.log(`Logged in as ${client.user.username}!`);
   client.user.setStatus("idle");
-  client.user.setActivity(`${prefix}help | Lion Of Kurdistan`, { type: "PLAYING" });
+  client.user.setActivity(`${prefix}help | By Dark Man`, { type: "PLAYING" });
   client.guilds.cache.forEach(g => {
     if (g.member(client.user).hasPermission("ADMINISTRATOR")) {
       g.fetchInvites().then(guildInvites => {});
