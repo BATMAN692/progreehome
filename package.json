@@ -1,10 +1,10 @@
 {
-  "name": "Robot",
+  "name": "DarkMan",
   "version": "2.1.0",
-  "description": "Robot",
-  "main": "Naqeb.js",
+  "description": "DarkMan",
+  "main": "DarkMan.js",
   "scripts": {
-    "start": "node Naqeb.js"
+    "start": "node DarkMan.js"
   },
   "dependencies": {
     "discord.js": "^12.4.0",
