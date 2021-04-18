@@ -60,7 +60,7 @@ client.on("message", async message => {
 ⚡ | Moderation Commands
  , ban , kick , mute , unmute , slowmode , bans
  say , unban[userid/all]
- __ [SUPPORT](https://discord.gg/bRN8hde6) __ - __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=806636450392965120&permissions=8&scope=bot) __
+ __ [SUPPORT](https://discord.gg/VP7pfAhGm7) __ - __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=806636450392965120&permissions=8&scope=bot) __
 
 `);
     message.channel.send(help);
